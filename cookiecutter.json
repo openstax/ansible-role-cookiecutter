@@ -1,0 +1,7 @@
+{
+    "role_name": "ansible-role-test",
+    "author": "openstax",
+    "description": "Another cookiecutter brought to you by mike =)",
+    "license": "GPLv2",
+    "min_ansible_version": "2.1"
+}
